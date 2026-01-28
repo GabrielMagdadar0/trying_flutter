@@ -1,16 +1,1 @@
-# trying_flutter
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+During our discussion, Sir Ligutan, I truly learned a lot, especially as someone who has never used GitHub before. I used to save files by simply making duplicate folders because I thought Git was too much of a hassle to learn. However, the way you simplified the concepts of Git and GitHub gave me a clear starting point and changed my perspective entirely. I also appreciated learning how to install Flutter and handle those initial configurations; it was definitely worth the time. I feel much more prepared for this semester with you as my teacher because your approach is truly amazing. You aren't like those instructors who just hand out modules and leave us to study alone, which can be so draining. Having you guide me and my classmates makes me feel confident that I can actually pass this subject. Your dedication to teaching makes a huge difference, and I am genuinely grateful for your support.
